@@ -1,0 +1,1 @@
+Much as Github is a nice website and has a pretty activity visualization, your worth lies in the quality of the code you write and how well you work with other programmers, not in any easily countable stats, most of which can be gamed.
